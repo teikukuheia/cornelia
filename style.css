@@ -116,7 +116,7 @@ h1 {
 }
 
 .header-menu {
-  transform: translateY(-72px);
+  transform: translateY(-71px);
   position: fixed;
   background: black;
   padding: 0 32px;
@@ -136,13 +136,13 @@ h1 {
 }
 
 .menu-visible {
-  transform: translateY(36px);
+  transform: translateY(45px);
 }
 
 .header-mobile-menu {
   z-index: 3;
   background: black;
-  height: 36px;
+  height: 46px;
   padding: 0 32px;
   width: 100%;
   position: fixed;
